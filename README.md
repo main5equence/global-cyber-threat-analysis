@@ -254,8 +254,6 @@ to explore the interactive cybersecurity dashboard.
 ## Future Improvements
 
 • Add machine learning models to predict cyber attack trends  
-• Build automated ETL pipeline for cybersecurity datasets  
 • Integrate threat intelligence APIs  
-• Deploy dashboard using Power BI Service
 
 
