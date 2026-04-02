@@ -5,6 +5,10 @@ This project analyzes global cybersecurity incidents to identify patterns in cyb
 The analysis combines **SQL, Python, and Power BI** to explore the dataset, perform data analysis, and create an interactive cyber threat dashboard.
 The goal of this project is to demonstrate how data analytics can be applied to cybersecurity data to uncover insights about global cyber threats.
 
+![Cybersecurity](https://img.shields.io/badge/domain-cybersecurity-blue)
+![Threat Intelligence](https://img.shields.io/badge/focus-threat--intelligence-purple)
+![Security](https://img.shields.io/badge/security-aware-brightgreen)
+
 ---
 
 # Dataset
