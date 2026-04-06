@@ -8,6 +8,7 @@ The goal of this project is to demonstrate how data analytics can be applied to 
 ![Cybersecurity](https://img.shields.io/badge/domain-cybersecurity-blue)
 ![Threat Intelligence](https://img.shields.io/badge/focus-threat--intelligence-purple)
 ![Security](https://img.shields.io/badge/security-aware-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
