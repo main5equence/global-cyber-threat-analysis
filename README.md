@@ -118,6 +118,9 @@ ORDER BY attacks DESC;
 <img width="1070" height="481" alt="Zrzut ekranu 2026-03-11 203624" src="https://github.com/user-attachments/assets/9ab07de0-eecc-458f-8b34-90a5d00bb922" />
 This query identifies the most frequent types of cyber attacks.
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/048f138b-eee2-494c-8838-41a7740b07cc" />
+
+
 ---
 
 ## Top Countries by Cybercrime Financial Loss
@@ -131,6 +134,9 @@ ORDER BY losses DESC;
 ```
 <img width="1009" height="494" alt="Zrzut ekranu 2026-03-11 203835" src="https://github.com/user-attachments/assets/6221f712-eb42-4924-af35-cc3652897cd0" />
 Shows which countries experience the highest financial losses caused by cyber attacks.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f673e1de-e9be-4a5a-bb36-c0ba2414ce7f" />
+
 
 ---
 
@@ -146,6 +152,9 @@ ORDER BY total_loss DESC;
 <img width="1106" height="403" alt="Zrzut ekranu 2026-03-11 204502" src="https://github.com/user-attachments/assets/a41fd11a-516c-416c-8684-55bfca42c5f2" />
 Analyzes which attack types generate the largest financial damage.
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bd039d87-4a65-4476-92fb-507f8fdd47fc" />
+
+
 ---
 
 ## Most Common Cyber Attack Sources
@@ -159,6 +168,9 @@ ORDER BY incidents DESC;
 ```
 <img width="1083" height="264" alt="Zrzut ekranu 2026-03-11 204747" src="https://github.com/user-attachments/assets/17fca5da-3cfe-4e70-820d-8246822b66b1" />
 Identifies the main threat actors responsible for cyber incidents.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/cbb65de0-a788-4f4a-9aec-f1187b98dc61" />
+
 
 ---
 
@@ -175,6 +187,10 @@ ORDER BY attacks DESC;
 
 Shows which industries are most frequently targeted.
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/cf881e90-cfd2-4cd5-86e6-52ae37423dd6" />
+
+
+
 ---
 
 ## Cyber Attacks Over Time
@@ -189,6 +205,10 @@ ORDER BY Year;
 <img width="741" height="457" alt="Zrzut ekranu 2026-03-11 205108" src="https://github.com/user-attachments/assets/2b6e8d3a-59fd-4250-9258-3ff2f8532401" />
 
 Analyzes how the number of cyber attacks changes over time.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/101f790c-fea8-4829-95f2-7f3acd33c24f" />
+
+
 
 ---
 
